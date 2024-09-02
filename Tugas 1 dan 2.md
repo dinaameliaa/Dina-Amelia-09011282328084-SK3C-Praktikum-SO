@@ -61,7 +61,7 @@ Sistem operasi Linux adalah jenis sistem operasi komputer yang bebas dan sumber 
 ![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/VirtualBox_AMELL_29_08_2024_18_28_23.png)
 13. Selanjutnya pilh tanda + dan berikan ukuran 5291 MB atau lebih serta pilih format “sistem berkas berjurnal ext4” dan pilih /home pada Mount Point. Klik OK
 ![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/VirtualBox_AMELL_29_08_2024_18_29_24.png)
-14. Selanjutnya pilih tanda + dan berikan space harddisk sebesar 13000, kemudian pilih format “system berkaqs berjurnal ext4” dan pilih / (root) pata Mount Point. Klik OK
+14. Selanjutnya pilih tanda + dan berikan space harddisk sebesar 13000, kemudian pilih format “sistem berkas berjurnal ext4” dan pilih / (root) pata Mount Point. Klik OK
 ![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/VirtualBox_AMELL_29_08_2024_18_30_16.png)
 15. Partisi harddisk siap dilakukan instalisasi sistem operasi linux, setelah itu klik "Pasang Sekarang"
 ![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/VirtualBox_AMELL_29_08_2024_18_31_26.png)
