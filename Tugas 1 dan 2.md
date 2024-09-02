@@ -57,21 +57,20 @@ Sistem operasi Linux adalah jenis sistem operasi komputer yang bebas dan sumber 
 10. Berikutnya pilih “sesuatu yang lain”
 ![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/VirtualBox_AMELL_29_08_2024_18_21_09.png)
 11. Pada tampilan berikutnya klik Tambahkan Partisi Baru, kemudia klik Continu. Maka tampilan berikutnya akan menampilkan partisi/dev/sda yang sudah terbuat
-![Contoh Gambar]()
 12. Selanjutnya pilih tanda + untuk membuat partisi swap dan berikan ukuran harddisk 1024 MB, serta pilih Ruang Swap. Klik OK
-![Contoh Gambar]
+![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/VirtualBox_AMELL_29_08_2024_18_28_23.png)
 13. Selanjutnya pilh tanda + dan berikan ukuran 5291 MB atau lebih serta pilih format “sistem berkas berjurnal ext4” dan pilih /home pada Mount Point. Klik OK
-![Contoh Gambar]
+![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/VirtualBox_AMELL_29_08_2024_18_29_24.png)
 14. Selanjutnya pilih tanda + dan berikan space harddisk sebesar 13000, kemudian pilih format “system berkaqs berjurnal ext4” dan pilih / (root) pata Mount Point. Klik OK
-![Contoh Gambar]
+![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/VirtualBox_AMELL_29_08_2024_18_30_16.png)
 15. Partisi harddisk siap dilakukan instalisasi sistem operasi linux, setelah itu klik "Pasang Sekarang"
-![Contoh Gambar]
+![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/VirtualBox_AMELL_29_08_2024_18_31_26.png)
 16. Kemudian proses instalisasi ke harddisk akan dilakukan, setting untuk zona waktu yang digunakan. Klik "Lanjutkan"
-![Contoh Gambar]
+![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/VirtualBox_AMELL_29_08_2024_18_34_14.png)
 17. Tampilan berikutnya merupakan input username dan password untuk verifikasi saat masuk atau login ke sistem operasi. Apabila telah selesai klik "Lanjutkan"
-![Contoh Gambar]
+![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/VirtualBox_AMELL_29_08_2024_18_35_22.png)
 18. Setelah itu akan memasukki proses peng-copy-an file dan instalasi ke filesystem
-![Contoh Gambar]
+![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/VirtualBox_AMELL_29_08_2024_18_38_25.png)
 19. Tunggu sampai selesai, maka Sistem Operasi Linux pun telah berhasil diinstall
 
 ## 2.2  ANALISIS "/" PADA MOUNT POINT
