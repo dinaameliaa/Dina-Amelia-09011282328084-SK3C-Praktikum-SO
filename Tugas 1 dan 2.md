@@ -25,10 +25,9 @@
 Sistem operasi Linux adalah jenis sistem operasi komputer yang bebas dan sumber terbuka, didistribusikan di bawah lisensi GNU General Public License (GPL) yang memungkinkan pengguna untuk mengunduh, menginstal, dan mengubah kode sumber sistem operasi secara gratis. OS Linux terdiri dari kernel Linux yang dikembangkan oleh Linus Torvalds dan berbagai perangkat lunak yang dikembangkan oleh komunitas open-source. Karena linux adalah kernel dari sistem operasi yang bersifat open source yang dapat dimodifikasi siapa saja, maka dari itu ada banyak jenis sistem operasi linux. Salah satu diantaranya yaitu Linux Mint seperti yang akan saya gunakan untuk menginstal sistem operasi linux pada praktikum ini.
 
 ## 1.2 TUJUAN 
-a. Mengetahui prosedur instalasi pada sistem operasi linux   
-b. Mampu menjalankan instalasi melalui Graphic User Interface (GUI) maupun 
-Command Line Linux   
-c. Mampu menganalisis proses instalasi   
+1. Mengetahui prosedur instalasi pada sistem operasi linux
+2. Mampu menjalankan instalasi melalui Graphic User Interface (GUI) maupun Command Line Linux
+3. Mampu menganalisis proses instalasi   
 
 ## 1.3 ALAT YANG DIGUNAKAN
 1. Laptop
@@ -39,23 +38,40 @@ c. Mampu menganalisis proses instalasi
 
 ## 2.1 PROSES INSTALISASI
 1. Download VitualBox di web dan pilih Windows hots (atau sesuaikan dengan laptop masing-masing)
+![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/virtual%20box_download.png)
 2. Setelah aplikasi VirtualBox terpasang pada laptop, buka dan pilih buat project sesuai dengan kebutuhan masing-masing
 3. Apabila telah selesai, maka tampilan project akan menjadi seperti di bawah ini
+![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/vitual%20box_tampilan.png)
 4. Selanjutnya, download sistem operasi Linux Mint
+![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/linuxmint_download.png)
 5. Kemudian tambahkan Linux Mint ke dalam project VirtualBox pada bagian storage
+![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/virtual%20box_storage.png)
 6. Jika sudah ditambahkan, pilih start untuk memulai project Linux
+![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/vitual%20box_tampilan.png)
 7. Lalu, tunggu hingga tampilan menjadi seperti ini
+![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Linux_AMELL_29_08_2024_14_46_34.png)
 8. Lalu klik Install Linux Mint
 9. Kemudian pilih bahasa dan klik "pasang codec multimedia"
+![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/VirtualBox_AMELL_29_08_2024_18_18_31.png)
+![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/VirtualBox_AMELL_29_08_2024_18_20_31.png)
 10. Berikutnya pilih “sesuatu yang lain”
+![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/VirtualBox_AMELL_29_08_2024_18_21_09.png)
 11. Pada tampilan berikutnya klik Tambahkan Partisi Baru, kemudia klik Continu. Maka tampilan berikutnya akan menampilkan partisi/dev/sda yang sudah terbuat
+![Contoh Gambar]()
 12. Selanjutnya pilih tanda + untuk membuat partisi swap dan berikan ukuran harddisk 1024 MB, serta pilih Ruang Swap. Klik OK
+![Contoh Gambar]
 13. Selanjutnya pilh tanda + dan berikan ukuran 5291 MB atau lebih serta pilih format “sistem berkas berjurnal ext4” dan pilih /home pada Mount Point. Klik OK
+![Contoh Gambar]
 14. Selanjutnya pilih tanda + dan berikan space harddisk sebesar 13000, kemudian pilih format “system berkaqs berjurnal ext4” dan pilih / (root) pata Mount Point. Klik OK
+![Contoh Gambar]
 15. Partisi harddisk siap dilakukan instalisasi sistem operasi linux, setelah itu klik "Pasang Sekarang"
+![Contoh Gambar]
 16. Kemudian proses instalisasi ke harddisk akan dilakukan, setting untuk zona waktu yang digunakan. Klik "Lanjutkan"
+![Contoh Gambar]
 17. Tampilan berikutnya merupakan input username dan password untuk verifikasi saat masuk atau login ke sistem operasi. Apabila telah selesai klik "Lanjutkan"
+![Contoh Gambar]
 18. Setelah itu akan memasukki proses peng-copy-an file dan instalasi ke filesystem
+![Contoh Gambar]
 19. Tunggu sampai selesai, maka Sistem Operasi Linux pun telah berhasil diinstall
 
 ## 2.2  ANALISIS "/" PADA MOUNT POINT
