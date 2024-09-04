@@ -58,10 +58,10 @@ Beberapa contoh perintah dasar sistem operasi linux yakni sebagai berikut :
 15. man : (man ls) menampilkan manual untuk perintah ls
 16. chown :(chown user:group job.txt) mengubah kepemilikan job.txt menjadi user dan group
 17. df : menampilkan informasi penggunaan disk
-18. du : menampilkan ukuran penggunaan disk oleh file dan direktori
+18. du : menampilkan ukuran penggunaan disk oleh file dan direktori   
 
 ![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/2%20ps%20aux.png)
-19. ps : menampilkan daftar proses yang sedang berjalan
+19. ps : menampilkan daftar proses yang sedang berjalan   
 
 ![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/3%20gzip.png)
 20. uname : menampilkan informasi sistem lengkap   
@@ -71,13 +71,13 @@ Beberapa contoh perintah dasar sistem operasi linux yakni sebagai berikut :
 24. gzip : mengompresi file menjadi gzip   
 
 ![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/4%20gunzip.png)
-25. gunzip : mengekstrak gzip menjadi file
+25. gunzip : mengekstrak gzip menjadi file   
 
 ![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/5%20top.png)
-26. top : menampilkan proses yang berjalan secara real-time
+26. top : menampilkan proses yang berjalan secara real-time   
 
 ![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/6%20zip.png)
-27. zip : mengompresi file menjadi zip
+27. zip : mengompresi file menjadi zip   
 
 ![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/7%20command.png)
 28. unzip : mengekstrak zip menjadi file   
@@ -104,18 +104,18 @@ Beberapa contoh perintah dasar sistem operasi linux yakni sebagai berikut :
 47. uptime : menampilkan lama waktu sistem telah berjalan serta jumlah pengguna yang masuk   
 
 ![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/9%20env.png)
-48. env : menampilkan semua variabel lingkungan (environment variables) yang saat ini aktif
+48. env : menampilkan semua variabel lingkungan (environment variables) yang saat ini aktif   
 
 ![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/10%20command.png)
 49. tr : mengonversi huruf kecil menjadi huruf besar dalam teks "data mining", menghasilkan "DATA MINING"   
 50. wc : (wc -1 job.txt) menghitung jumlah baris dalam job.txt   
-51. history : menampilkan daftar perintah yang telah dijalankan sebelumnya   
+51. history : menampilkan daftar perintah yang telah dijalankan sebelumnya      
 
 ![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/11%20clear.png)
-52. clear : membersihkan layar terminal
+52. clear : membersihkan layar terminal   
 
 ![Contoh Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/12%20exit.png)
-53. exit : keluar dari sesi terminal
+53. exit : keluar dari sesi terminal   
 
 # BAB III PENUTUP
 ## 3.1 KESIMPULAN
