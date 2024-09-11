@@ -38,9 +38,11 @@ root dengan symbol “/”.
 2. VirtualBox
 3. Sistem Operasi Linux (Linux Mint)
 
+---
+
 # BAB II PEMBAHASAN
 
-## HASIL TUGAS
+## 2.1 HASIL TUGAS
 1. Lihat peralatan I/O, character device, yang ada pada system komputer.
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%204/soal%201.png)
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%204/soal%201%20hasil.png)
@@ -78,6 +80,8 @@ root dengan symbol “/”.
 
    Agar kita dapat membuat direktori baru "haha" maka kita harus merubah agar bisa melakukan write
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%204/soal%208%20tambahan.png)
+
+   Direktori baru "haha" pun berhasil dibuat :
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%204/soal%208%20tamb%20hasil.png)
    
 9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan nilai default-nya ?
