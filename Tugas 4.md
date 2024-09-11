@@ -76,7 +76,7 @@ Sistem file (file system) atau sistem berkas merupakan struktur logika yang digu
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%204/soal%208.png)
    Disini, kita tidak dapat membuat direktori baru "haha" pada sub direktori februari, karena telah mengubah kepemilikan sehingga hanya bisa melakukan read saja
 
-   Agar kita dapat membuat direktori baru "haha" maka kita harus merubah agar bisa melakukan write
+   Agar kita dapat membuat direktori baru "haha" maka kita harus merubah agar bisa melakukan write dan execute
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%204/soal%208%20tambahan.png)
 
    Direktori baru "haha" pun berhasil dibuat :
