@@ -22,9 +22,7 @@
 # BAB I PENDAHULUAN
 
 ## 1.1 LATAR BELAKANG
-Sistem file pada Linux menyerupai pepohonan (tree), yaitu dimulai dari root, kemudian 
-direktori dan sub direktori. Sistem file pada Linux diatur secara hirarkhikal, yaitu dimulai dari 
-root dengan symbol “/”.
+Sistem file (file system) atau sistem berkas merupakan struktur logika yang digunakan untuk mengendalikan akses terhadap data yang ada pada disk. Dengan kata lain, sistem file merupakan database khusus untuk penyimpanan, pengelolaan, manipulasi dan pengambilan data, agar mudah ditemukan dan diakses. Sistem file pada Linux menyerupai pepohonan (tree), yaitu dimulai dari root, kemudian direktori dan sub direktori. Sistem file pada Linux diatur secara hirarkhikal, yaitu dimulai dari root dengan symbol “/”.
 
 ## 1.2 TUJUAN
 1. Mengenal organisasi File di Linux  
