@@ -88,7 +88,8 @@ program, baik proses Background maupun proses Foreground.
    Jelaskan perbedaan kedua utilitas tersebut.
 
 2. Prompt String (PS)   
-   a.  Edit file .bash_profile, ganti prompt PS1 dengan ‘>’. Instruksi export diperlukan dengan parameter nama variable tersebut, agar perubahan variable PS1 dikenal oleh semua shell   
+   a.  Edit file .bash_profile, ganti prompt PS1 dengan ‘>’. Instruksi export diperlukan dengan parameter nama variable tersebut, agar perubahan variable PS1 dikenal oleh semua shell
+   
    PS1='> '   
    export PS1   
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%202%20(1).png)
@@ -97,13 +98,13 @@ program, baik proses Background maupun proses Foreground.
    b.  Eksperimen hasil PS1 :   
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%202%20(3).png)
 
-3. Logout   
+4. Logout   
    Edit file .bash_logout, tampilkan pesan dan tahan selama 5 detik, sebelum eksekusi logout   
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%203A%20(1).png)
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%203A%20(2).png)
    ![](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%203%20(3).png)
 
-4. Bash script   
+5. Bash script   
    a.  Buat 3 buah script p1.sh, p2.sh, p3.sh dengan isi masing-masing :
    
    p1.sh
@@ -141,31 +142,38 @@ program, baik proses Background maupun proses Foreground.
    $ ( ./p1.sh ; ./p3.sh ) &
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%204B%20(d).png)
 
-5. Jobs   
+6. Jobs   
    a. Buat shell-script yang melakukan loop dengan nama pwaktu.sh, setiap 10 detik, kemudian menyimpan tanggal dan jam pada file hasil.   
-   ![Gambar]()
+   ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%205A%20(1).png)
+   ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%205A%20(2).png)
+   ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%205A%20(3).png)
    
    b.  Jalankan sebagai background; kemudian jalankan satu program (utilitas find) di background sebagai berikut :   
-   ![Gambar]()
+   ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%205B.png)
    
    c. Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program tersebut ke background  :   
-   ![Gambar]()
+   ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%205C.png)
    
-   d.  Stop program background dengan utilitas kil :   
-   ![Gambar]()
+   d.  Stop program background dengan utilitas kil :
+   $ ps x
+   ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%205D%20(ps%20x).png)
+   
+   $ kill
+   ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%205D%20(kill).png)
 
 7. History   
    a. Ganti nilai HISTSIZE dari 1000 menjadi 20   
-   ![Gambar]()
+   ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%206A.png)
    
    b. Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi yang terakhir dilakukan   
-   ![Gambar]()   
+   ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%206B.png)   
    
    c. Ulangi instruksi yang terakhir.  Gunakan juga ^P dan ^N untuk bernavigasi pada history bufer   
-   ![Gambar]()
+   ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%206C.png)
    
    d.  Ulangi instruksi pada history bufer nomor 150   
-   ![Gambar]()   
+   ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%206D.png)
+   Disini saya menggunakan history bufer nomor 278
    
    e.  Ulangi instruksi dengan prefix “ls”   
-   ![Gambar]()
+   ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%206E.png)
