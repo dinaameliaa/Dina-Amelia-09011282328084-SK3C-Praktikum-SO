@@ -22,11 +22,10 @@
 # BAB I PENDAHULUAN
 
 ## 1.1 LATAR BELAKANG
-  Shell adalah Command executive, artinya program yang menunggu instruksi dari pemakai, memeriksa sintak dari instruksi yang diberikan, kemudian mengeksekusi perintah tersebut. 
-Shell ditandai dengan prompt. Untuk pemakai menggunakan prompt $ dan untuk superuser menggunakan prompt #.  
-  History diadaptasi dari C-Shell, yaitu catatan dari semua instruksi yang sejauh ini telah dilakukan. Catatan ini dapat dilihat sebagai history, kemudian dapat dipilih kembali, diedit dan 
-dieksekusi. History memudahkan pemakai untuk mengedit kembali instruksi kompleks dan panjang, terutama bila terjadi kesalahan pada penulisan instruksi maupun parameter.  
-  Job adalah sebuah eksekusi program yang diberikan kepada kernel. Sebuah Job dianggap selesai, bila eksekusi program tersebut berakhir. Eksekusi Job adalah sama dengan eksekusi 
+  - Shell adalah Command executive, artinya program yang menunggu instruksi dari pemakai, memeriksa sintak dari instruksi yang diberikan, kemudian mengeksekusi perintah tersebut.  
+  - History diadaptasi dari C-Shell, yaitu catatan dari semua instruksi yang sejauh ini telah dilakukan. Catatan ini dapat dilihat sebagai history, kemudian dapat dipilih kembali, diedit dan 
+dieksekusi.   
+  - Job adalah sebuah eksekusi program yang diberikan kepada kernel. Sebuah Job dianggap selesai, bila eksekusi program tersebut berakhir. Eksekusi Job adalah sama dengan eksekusi 
 program, baik proses Background maupun proses Foreground.
 
 ## 1.2 TUJUAN
@@ -59,19 +58,19 @@ program, baik proses Background maupun proses Foreground.
    echo “Profile dari .bash_profile”   
    Lakukan hal yang sama untuk file lainnya, sesuaikan tampilan dengan nama file yang bersangkutan.
    
-   .bash_profile 
+   - .bash_profile 
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%201B%20bash%20profile%20(1).png)
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%201B%20bash%20profile%20(2).png)
    
-   .bash_login
+   - .bash_login
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%201B%20bash%20login%20(1).png)
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%201B%20bash%20login%20(2).png)
    
-   .profile
+   - .profile
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%201B%20profile%20(1).png)
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%201B%20profile%20(2).png)
    
-   .bashrc
+   - .bashrc
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%201B%20bashrc%20(1).png)
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%201B%20bashrc%20(2).png)
    
@@ -107,25 +106,25 @@ program, baik proses Background maupun proses Foreground.
 5. Bash script   
    a.  Buat 3 buah script p1.sh, p2.sh, p3.sh dengan isi masing-masing :
    
-   p1.sh
+   - p1.sh
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%204A%20p1%20(1).png)
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%204A%20p1%20(2).png)
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%204A%20p1%20(3).png)
    
-   p2.sh
+   - p2.sh
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%204A%20p2%20(1).png)
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%204A%20p2%20(2).png)
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%204A%20p2%20(3).png)
    
-   p3.sh
+   - p3.sh
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%204A%20p3%20(1).png)
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%204A%20p3%20(2).png)
    ![Gamnar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%204A%20p3%20(3).png)
 
-   ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%204A%20p123.png)
+   - ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%204A%20p123.png)
     
    b.  Jalankan script tersebut :   
-   $ ./p1.sh ; ./p3.sh ; ./p2.sh   
+   - $ ./p1.sh ; ./p3.sh ; ./p2.sh   
    Program p1
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%204B%20p1%20(a).png)
    Program p3
@@ -133,13 +132,13 @@ program, baik proses Background maupun proses Foreground.
    Program p2
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%204B%20p2%20(a).png)
 
-   $./p1.sh &
+   - $./p1.sh &
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%204B%20(b).png)
 
-   $ ./p1.sh  $ ./p2.sh & ./p3.sh &
+   - $ ./p1.sh  $ ./p2.sh & ./p3.sh &
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%204B%20p1%20(c).png)
 
-   $ ( ./p1.sh ; ./p3.sh ) &
+   - $ ( ./p1.sh ; ./p3.sh ) &
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%204B%20(d).png)
 
 6. Jobs   
