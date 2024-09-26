@@ -85,7 +85,7 @@ program, baik proses Background maupun proses Foreground.
    $ exit   
    ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%206/P6%201C%20(b).png)
    
-   Jelaskan perbedaan kedua utilitas tersebut.
+   Perbedaan kedua utilitas tersebut yaitu, pada penggunaan su - lebih mirip dengan login langsung sebagai pengguna tersebut tanpa mengubah semua pengaturan dan variabel yang ada. Sedangkan su hanya mengubah identitas pengguna tanpa mengubah semua pengaturan.
 
 2. Prompt String (PS)   
    a.  Edit file .bash_profile, ganti prompt PS1 dengan ‘>’. Instruksi export diperlukan dengan parameter nama variable tersebut, agar perubahan variable PS1 dikenal oleh semua shell
