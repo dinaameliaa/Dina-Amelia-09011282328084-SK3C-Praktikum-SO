@@ -57,5 +57,7 @@
    10. Selain itu, kita juga dapat lebih meningkatkan keamanan koneksi dengan mengubah port koneksi default ke yang lain atau mengubah autentikasi kata sandi menjadi autentikasi kunci.    
        Pengaturan server OpenSSH utama disimpan dalam berkas konfigurasi utama sshd_config (lokasi:/etc/ssh)                    
        ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%207/P7%2010.png)
-
+     
+       Hasilnya berkas konfigurasi akan dibuka dengan editor yang ditentukan dan dapat mngubah nilai yang diperlukan    
        ![Gambar](https://github.com/dinaameliaa/Dina-Amelia-09011282328084-SK3C-Praktikum-SO/blob/main/Sistem%20Operasi/Gambar%20tugas%207/P7%2011.jpg)
+       Setelah melkukkan perubahan yang diperlukan, simpan berkas perubahan, tekan "Ctrl+X", dan tutup berkas
